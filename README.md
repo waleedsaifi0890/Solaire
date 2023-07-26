@@ -50,7 +50,7 @@ Web3 Fusion of Facebook and Instagram for NFTs. Explore the world of blockchain-
 
 ## Social Media Applicaton
 
-Simplifying communication and contact management across devices. This seamless solution allows for easy syncing of contacts from desktop to phone, ensuring uninterrupted connectivity on the go.
+Web3 Fusion of Facebook and Instagram. Offering an interactive way to have a digital market for NFTs.
 
  <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690377444-solaire-1.png" width="350px" >
 
@@ -58,13 +58,13 @@ Simplifying communication and contact management across devices. This seamless s
 
 ## Messenger
 
-Download WhatsApp contacts in CSV or vCard formats. Allowing users with backup and convenient management options, ensuring quick access and adaptability for various purposes
+A seamless and smooth messenger to allow users to interact swiftly.
 
  <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690377455-solaire-message.png" width="350px" >
 
 
 ## Reward System
-Introducing our innovative ChatGPT integration with WhatsApp – a powerful combination that enhances your messaging experience like never before. ChatGPT, an advanced AI language model, joins forces with WhatsApp to offer you a seamless and intelligent communication platform.
+
 
  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
@@ -89,20 +89,3 @@ If you have any questions or feedback regarding this project, feel free to reach
 
 
 I'd be happy to hear from you and discuss anything related to this project or any potential collaborations!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
