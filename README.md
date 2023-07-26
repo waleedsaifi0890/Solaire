@@ -70,7 +70,7 @@ A seamless and smooth messenger to allow users to interact swiftly.
 
 
 ## Additional functionalities
--	Real Time Crypo News.
+-	Real Time Crypto News.
  <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690377450-solaire-additional.png" width="350px" >
 
 
