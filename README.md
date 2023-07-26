@@ -52,7 +52,7 @@ Web3 Fusion of Facebook and Instagram for NFTs. Explore the world of blockchain-
 
 Simplifying communication and contact management across devices. This seamless solution allows for easy syncing of contacts from desktop to phone, ensuring uninterrupted connectivity on the go.
 
- <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
+ <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690377444-solaire-1.png" width="350px" >
 
 
 
@@ -60,7 +60,7 @@ Simplifying communication and contact management across devices. This seamless s
 
 Download WhatsApp contacts in CSV or vCard formats. Allowing users with backup and convenient management options, ensuring quick access and adaptability for various purposes
 
- <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
+ <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690377455-solaire-message.png" width="350px" >
 
 
 ## Reward System
@@ -70,11 +70,8 @@ Introducing our innovative ChatGPT integration with WhatsApp – a powerful comb
 
 
 ## Additional functionalities
--	Smart Auto Corrections.
--	Language Translation.
--	Rephrasing.
--	And so much more.
- <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
+-	Real Time Crypo News.
+ <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690377450-solaire-additional.png" width="350px" >
 
 
 
