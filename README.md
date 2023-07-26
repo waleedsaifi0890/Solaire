@@ -1,8 +1,7 @@
 <h1 align="center"> Solaire  </h1> <br>
 <p align="center">
   <a href="https:">
-    <img alt="GitPoint" title="GitPoint" src="![image](https://github.com/waleedsaifi0890/Solaire/assets/107859234/bcd748e2-1f34-4e21-a5ef-7a3ea3086eea)
-" >
+    <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690377444-solaire-1.png" >
   </a>
 </p>
 
