@@ -48,7 +48,7 @@ Web3 Fusion of Facebook and Instagram for NFTs. Explore the world of blockchain-
 - Additional functionalities
 
 
-## Contact Synchronization
+## Social Media Applicaton
 
 Simplifying communication and contact management across devices. This seamless solution allows for easy syncing of contacts from desktop to phone, ensuring uninterrupted connectivity on the go.
 
@@ -56,20 +56,20 @@ Simplifying communication and contact management across devices. This seamless s
 
 
 
-## Contact Export
+## Messenger
 
 Download WhatsApp contacts in CSV or vCard formats. Allowing users with backup and convenient management options, ensuring quick access and adaptability for various purposes
 
  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
 
-## ChatGPT integration
+## Reward System
 Introducing our innovative ChatGPT integration with WhatsApp – a powerful combination that enhances your messaging experience like never before. ChatGPT, an advanced AI language model, joins forces with WhatsApp to offer you a seamless and intelligent communication platform.
 
  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
 
-## Other Features.
+## Additional functionalities
 -	Smart Auto Corrections.
 -	Language Translation.
 -	Rephrasing.
